@@ -6,8 +6,8 @@ services:
     # security_opt:
     #   - seccomp:unconfined #optional
     environment:
-      - PUID=197609 # based on id (to get those ids type id in CMD)
-      - PGID=197609 # based on group
+      - PUID=1000 # based on id (to get those ids type id in CMD)
+      - PGID=1000 # based on group
       - TZ=America/Chicago # your timezone 
       # - SUBFOLDER=/ #optional
       - TITLE=Webtop #optional
