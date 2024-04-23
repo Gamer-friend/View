@@ -2,7 +2,7 @@ services:
   webtop:
     image: linuxserver/webtop:ubuntu-mate #choose your flavor
     container_name: webtop
-    # privileged: true #optional but not needed unless you are running kde or i3 or other tools
+    privileged: true # optional but not needed unless you are running kde or i3 or other tools (VSCode)
     # security_opt:
     #   - seccomp:unconfined #optional
     environment:
