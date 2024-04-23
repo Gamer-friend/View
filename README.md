@@ -22,3 +22,5 @@ docker compose up -d
 ~~~sh
 docker compose down
 ~~~
+
+![alt text](image.png)
