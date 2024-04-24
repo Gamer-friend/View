@@ -14,6 +14,7 @@ https://hub.docker.com/r/linuxserver/webtop
 
 #### How to start
 * In this project, i use Ubuntu-mate image
+* Before run this set PUID and PGID in your PC, it can get running "id" command in CMD
 * To start container
 ~~~sh
 docker compose up -d
