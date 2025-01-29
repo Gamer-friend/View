@@ -23,7 +23,7 @@ docker compose up -d
 ~~~sh
 docker compose down
 ~~~
-![alt text](desktop-img.png)
+![alt text](README-imgs/desktop-img.png)
 
 
 <br>
@@ -38,7 +38,7 @@ sh /config/apps/tor_install.sh
 ~~~
 * Or double click "tor_install.sh" file
 
-![alt text](tor-img.png)
+![alt text](README-imgs/tor-img.png)
 
 <br>
 <hr>
